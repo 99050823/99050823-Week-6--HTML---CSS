@@ -1,0 +1,56 @@
+body {
+    background-color: #77BCFF;
+}
+
+.page-container {
+    margin: 0 auto;
+    width: 800px;
+    background-color: white;
+}
+
+.header {
+    position: relative;
+    top: 10px;
+    text-align: center;
+}
+
+.navBar {
+    background-color: black;
+}
+
+.navBar ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+}
+
+.navBar li {
+    display: inline;
+    margin-right: 100px;
+    position: relative;
+    left: 5.5cm;
+}
+
+.navBar a {
+    color: white;
+    text-decoration: none;
+}
+
+.navBar a:hover {
+    color: black;
+}
+
+.navBar li:hover {
+    background-color: white;
+}
+
+.Text {
+    padding-left: 10px;
+}
+
+.tip {
+    background-color: #A2D1FF;
+    position: relative;
+    bottom: 10px;
+    margin-right: 140px;
+}
